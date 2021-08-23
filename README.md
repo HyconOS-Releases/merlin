@@ -2,6 +2,8 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/merlin/v4.5/total.svg)](https://GitHub.com/Hycon-Releases/merlin/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/merlin/V3.5/total.svg)](https://GitHub.com/Hycon-Releases/merlin/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/merlin/v3.0/total.svg)](https://GitHub.com/Hycon-Releases/merlin/releases)
